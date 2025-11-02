@@ -1,0 +1,53 @@
+.app-root {
+  background: var(--bg);
+  min-height: 100vh;
+}
+
+/* simple responsive grid for cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(260px,1fr));
+  gap: 1rem;
+}
+
+/* hero */
+.hero {
+  background: linear-gradient(90deg, rgba(255,153,51,0.08), rgba(0,0,0,0.02));
+  padding: 2rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+/* small helpers */
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --card-bg: #f9f9f9;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+  --card-bg: #1e1e1e;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.card {
+  background-color: var(--card-bg);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.03);
+}

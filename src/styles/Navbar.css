@@ -1,0 +1,11 @@
+.app-navbar {
+  background: white;
+  border-bottom: 1px solid #e9ecef;
+}
+.navbar-brand {
+  font-weight: 700;
+  color: var(--primary) !important;
+}
+.nav-link {
+  color: #333 !important;
+}

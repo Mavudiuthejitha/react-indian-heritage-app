@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "country": "India",
+    "state": "Uttar Pradesh",
+    "location": "Agra",
+    "timing": "6:00 AM – 6:30 PM (Closed Fridays)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "videoId": "49HTIoCccDY",
+    "short": "A symbol of eternal love built by Shah Jahan for Mumtaz Mahal.",
+    "description": "The Taj Mahal, one of the Seven Wonders of the World, was commissioned by Mughal Emperor Shah Jahan in 1632 in memory of his wife Mumtaz Mahal."
+  },
+  {
+    "id": 2,
+    "name": "Qutub Minar",
+    "country": "India",
+    "state": "Delhi",
+    "location": "Mehrauli",
+    "timing": "7:00 AM – 5:00 PM",
+    "image": "https://www.baltana.com/files/wallpapers-10/Qutub-Minar-New-Delhi-Wallpaper-28428.jpg",
+    "videoId": "J7nmPBAE2X8",
+    "short": "A 73-meter-high minaret symbolizing the beginning of Muslim rule in India.",
+    "description": "Built in 1193 by Qutb-ud-din Aibak and later completed by Iltutmish, Qutub Minar is the tallest brick minaret in the world."
+  },
+  {
+    "id": 3,
+    "name": "Red Fort",
+    "country": "India",
+    "state": "Delhi",
+    "location": "Netaji Subhash Marg",
+    "timing": "7:00 AM – 5:30 PM (Closed Mondays)",
+    "image": "https://static.toiimg.com/photo/53438383/.jpg",
+    "videoId": "TWqaSTSWzus",
+    "short": "Historic fort symbolizing India’s freedom and Mughal grandeur.",
+    "description": "Constructed by Emperor Shah Jahan in 1638, the Red Fort served as the residence of Mughal emperors for over 200 years."
+  },
+  {
+    "id": 4,
+    "name": "Hampi",
+    "country": "India",
+    "state": "Karnataka",
+    "location": "Vijayanagara District",
+    "timing": "6:00 AM – 6:00 PM",
+    "image": "https://www.thehistoryhub.com/wp-content/uploads/2014/04/Virupaksha-Temple-of-Hampi.jpg",
+    "videoId": "RHI_zuzHOdg",
+    "short": "Ancient ruins of the Vijayanagara Empire set amid stunning boulders.",
+    "description": "Hampi was once the capital of the Vijayanagara Empire and is now a UNESCO World Heritage Site."
+  },
+  {
+    "id": 5,
+    "name": "Mysore Palace",
+    "country": "India",
+    "state": "Karnataka",
+    "location": "Mysore",
+    "timing": "10:00 AM – 5:30 PM (Closed Mondays)",
+    "image": "https://2.bp.blogspot.com/-ed7z2JTO28Q/V_0mvG-TNCI/AAAAAAAACw8/MGILkMukQdAqZlw5J-4pCJt1cCdBzg2pACLcB/s1600/Mysore_Palace.jpg",
+    "videoId": "mcLxjZxje9s",
+    "short": "A blend of Hindu, Mughal, Rajput, and Gothic styles illuminated by 100,000 bulbs at night.",
+    "description": "The Mysore Palace, designed by Henry Irwin in 1912, was the residence of the Wadiyar dynasty."
+  },
+  {
+    "id": 6,
+    "name": "Gateway of India",
+    "country": "India",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "timing": "Open 24 hours",
+    "image": "https://artsmileybiz.com/wp-content/uploads/2022/04/gateway_of_india_photography_print_artsmiley.jpg",
+    "videoId": "e9HiA6U1b-8",
+    "short": "An iconic Mumbai landmark overlooking the Arabian Sea.",
+    "description": "The Gateway of India was built in 1924 to commemorate the visit of King George V and Queen Mary to Mumbai."
+  },
+  {
+    "id": 7,
+    "name": "Charminar",
+    "country": "India",
+    "state": "Telangana",
+    "location": "Hyderabad",
+    "timing": "9:30 AM – 5:30 PM",
+    "image": "https://3.bp.blogspot.com/-ty6sAqo50b4/V0XIo8whMpI/AAAAAAAAEYI/Yb9nxhLzxS0RjqAOLCEDD11VSRQgD1JMwCLcB/s1600/CHARMINAR1.jpg",
+    "videoId": "4b61rUk8Fmk",
+    "short": "Hyderabad’s grand monument and mosque built by Sultan Muhammad Quli Qutb Shah.",
+    "description": "Constructed in 1591, Charminar is Hyderabad’s most famous landmark and a symbol of its heritage."
+  },
+  {
+    "id": 8,
+    "name": "Sun Temple, Konark",
+    "country": "India",
+    "state": "Odisha",
+    "location": "Konark",
+    "timing": "6:00 AM – 8:00 PM",
+    "image": "https://cdn.enjoytravel.com/img/travel-news/sun-temple-at-konark-is-from-the-13th-century.jpg",
+    "videoId": "s7mtHE_4HRo",
+    "short": "A 13th-century chariot-shaped temple dedicated to the Sun God.",
+    "description": "Built in the 13th century by King Narasimhadeva I, the Konark Sun Temple is designed as a massive chariot."
+  }
+]
